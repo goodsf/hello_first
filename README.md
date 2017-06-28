@@ -7,3 +7,5 @@ write a bit about yourself.
 <h1>
   hello word!
 </h1>
+$ npm install -g cnpm --registry=https://registry.npm.taobao.org
+$ npm config set registry https://registry.npm.taobao.org
